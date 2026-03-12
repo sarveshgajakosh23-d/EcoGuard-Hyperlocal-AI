@@ -1,0 +1,5 @@
+{
+  "name": "EcoGuard Hyperlocal AI",
+  "description": "Hyperlocal air pollution intelligence system for municipal authorities using AI-driven hotspot detection and spike prediction.",
+  "requestFramePermissions": ["geolocation"]
+}
